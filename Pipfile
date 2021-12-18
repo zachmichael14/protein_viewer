@@ -6,7 +6,6 @@ name = "pypi"
 [packages]
 biopython = "*"
 nglview = "*"
-ipywidgets = "*"
 
 [dev-packages]
 
