@@ -9,6 +9,6 @@ I choose Jupyter Notebooks in part because they provide reasonable widget toolin
 While there is a small 10-20 second delay while the server spins up, Binder provides all the interactivity of a traditional Notebook but without much of the fuss.
 
 ## How to Use
-[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke2.mybinder.org/user/zachmichael14-protein_viewer-m254f7xn/doc/tree/Untitled.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zachmichael14/protein_viewer/HEAD?labpath=viewer.ipynb)
 
 Simply click the Binder badge above to launch the Notebook.
