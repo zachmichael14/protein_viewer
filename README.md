@@ -5,7 +5,7 @@
 * [Technologies](#technologies)
 * [Usage](#usage)
   * [GUI Reference](#gui-reference)
-* [Author](#author-/--zachary-seitz)
+* [Author](#author)
  
 ## Introduction
 
