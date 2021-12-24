@@ -4,7 +4,6 @@
 * [Introduction](#introduction)
 * [Technologies](#technologies)
 * [Usage](#usage)
-  * [GUI Reference](#gui-reference)
 * [Author](#author)
  
 ## Introduction
@@ -28,11 +27,9 @@ While there is a small 10-20 second delay while the server spins up, Binder prov
 
 Simply click the Binder badge above to launch the Notebook.
 
-### GUI Reference
-
 ## Author
 ### Zachary Seitz
 #### Let's connect!
 * Find me on [Linkedin](https://linkedin.com/in/zachmichael14).
 * Email me at zachmichael14@gmail.com.
-* Visit my [website](https://zachmichael14.github.io/gh_page/).
+* Visit my [resume website](https://zachmichael14.github.io/gh_page/).
