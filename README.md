@@ -48,7 +48,7 @@ While there is a small 10-20 second delay while the server spins up, Binder prov
 #### General features <a class="anchor" id="general-features"></a>
 
 <ul>
- <li><strong>Moving the protein</strong>: click and drag to move the protein around, scroll to zoom. To reset the view, click General > Center
+ <li><strong>Moving the protein</strong>: click and drag to move the protein around, scroll to zoom. To reset the view, click General > Center.
   
  ![moving the protein](img/moving.gif)
 
@@ -68,7 +68,7 @@ While there is a small 10-20 second delay while the server spins up, Binder prov
 #### Representations <a class="anchor" id="representations"></a>
 
 <ul>
- <li><strong>Cartoon</strong>: typically the default as it's fairly easy to get a sense of the <a href="https://tinyurl.com/yx92469n">motifs</a> that make up the protein</li>
+ <li><strong>Cartoon</strong>: typically the default as it's fairly easy to get a sense of the <a href="https://tinyurl.com/yx92469n">motifs</a> that make up the protein.</li>
 
  ![cartoon representation](img/cartoon.gif)
 
