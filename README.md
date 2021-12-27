@@ -10,6 +10,7 @@
    <li><a href="#start-the-notebook">Start the notebook</a></li>
    <li><a href="#gui-reference">GUI reference</a></li>
      <ol>
+      <li><a href="#general-features">General features</a></li>
       <li><a href="#representations">Representations</a></li>
      </ol>
   </ol>
@@ -43,44 +44,46 @@ While there is a small 10-20 second delay while the server spins up, Binder prov
  ![static_notebook.png](img/static_notebook.png)
 
 ### GUI reference <a class="anchor" id="gui-reference"></a>
-#### General features
+
+#### General features <a class="anchor" id="general-features"></a>
+
 <ul>
- <li><strong>Moving the protein</strong>: click and drag to move the protein around, scroll to zoom.
- ![moving the protein](img/moving.png)
-
- <li><srong></strong>: displays the molecular surface. This view is often useful for finding binding pockets within a protein.
+ <li><strong>Moving the protein</strong>: click and drag to move the protein around, scroll to zoom. To reset the view, click General > Center
   
-  ![changing background color](img/background.png)
+ ![moving the protein](img/moving.gif)
 
- <li><strong>Spacefill</strong>: displays atoms/amino acids as spheres. This representation is commonly used in chemistry to display molecules.
+ <li><strong>Changing background color</strong>: under General > Background, click the square to open the color selector. Alternatively, type in a color name or corresponding hex code.
+  
+  ![changing background color](img/background.gif)
 
-![spacefill representation](img/spacefill.png)
+ <li><strong>Changing representation</strong>: the current representation can most easily be changed by navigating to Extra > Quick and selecting from the list.</li>
+ <ul>
+  <li>Representations can stack and so will need to cycled on/off as desired.</li>
+ </ul>
+
+ ![available representation](img/representations.png)
  
 </ul>
-The GUI allows the representation of the protein to be customized, but there are several presets available. The current representation can most easily be changed by navigating to ```Extra > Quick``` and selecting from the list.
-
-![available representation](img/representations.png)
-
-Note: Representations can stack and so will need to cycled on/off as desired.
 
 #### Representations <a class="anchor" id="representations"></a>
 
 <ul>
  <li><strong>Cartoon</strong>: typically the default as it's fairly easy to get a sense of the <a href="https://tinyurl.com/yx92469n">motifs</a> that make up the protein</li>
 
- ![cartoon representation](img/cartoon.png)
+ ![cartoon representation](img/cartoon.gif)
 
- <li><srong>Surface</strong>: displays the molecular surface. This view is often useful for finding binding pockets within a protein.
+ <li><srong>Surface</strong>: displays the molecular surface. This view is often useful for finding binding pockets within a protein. Here, it's clear that the surface representation is layered on top of the cartoon view.
   
-  ![surface representation](img/surface.png)
+  ![surface representation](img/surface.gif)
 
- <li><strong>Spacefill</strong>: displays atoms/amino acids as spheres. This representation is commonly used in chemistry to display molecules.
+ <li><strong>Spacefill</strong>: displays atoms/amino acids as spheres. This representation is commonly used in chemistry when displaying molecules.
 
-![spacefill representation](img/spacefill.png)
+![spacefill representation](img/spacefill.gif)
  
 </ul>
 
 More representation details can be found <a href="https://nglviewer.org/ngl/api/manual/molecular-representations.html">here</a>.
+
 ## Author <a class="anchor" id="author"></a>
 
 ### Zachary Seitz
