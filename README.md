@@ -9,6 +9,9 @@
   <ol>
    <li><a href="#start-the-notebook">Start the notebook</a></li>
    <li><a href="#gui-reference">GUI reference</a></li>
+     <ol>
+      <li><a href="#representations">Representations</a></li>
+     </ol>
   </ol>
  <li><a href="#author">Author</a></li>
  </ol>
@@ -46,10 +49,10 @@ The GUI allows the representation of the protein to be customized, but there are
 
 Note: Representations can stack and so will need to cycled on/off as desired.
 
-#### Representations
+#### Representations <a class="anchor" id="representations"></a>
 
 <ul>
- <li><strong>Cartoon</strong>: typically the default as it's fairly easy to get a sense of the <a href=(https://tinyurl.com/yx92469n)>motifs</a> that make up the protein</li>
+ <li><strong>Cartoon</strong>: typically the default as it's fairly easy to get a sense of the <a href="https://tinyurl.com/yx92469n">motifs</a> that make up the protein</li>
 
  ![cartoon representation](img/cartoon.png)
 
@@ -62,7 +65,7 @@ Note: Representations can stack and so will need to cycled on/off as desired.
 ![spacefill representation](img/spacefill.png)
  
 </ul>
-## Author
+## Author <a class="anchor" id="author"></a>
 
 ### Zachary Seitz
 
