@@ -43,7 +43,7 @@ While there is a small 10-20 second delay while the server spins up, Binder prov
   
  ![static_notebook.png](img/static_notebook.png)
  
-2. Run the first code cell and select a protein to view from the dropdown box. The selected protein will be displayed in the cell output along with a GUI for controlling the view.
+2. Run the code cell and select a protein to view from the dropdown box. The selected protein will be displayed in the cell output along with a GUI for controlling the view.
 
 
 ### GUI reference <a class="anchor" id="gui-reference"></a>
