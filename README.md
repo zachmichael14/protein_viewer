@@ -9,10 +9,7 @@
   <ol>
    <li><a href="#start-the-notebook">Start the notebook</a></li>
    <li><a href="#gui-reference">GUI reference</a></li>
-   <li><a href="#"></a></li>
-   <li><a href="#"></a></li>
   </ol>
- <li><a href="#further-reading">Further reading</a></li>
  <li><a href="#author">Author</a></li>
  </ol>
  
@@ -44,9 +41,9 @@ While there is a small 10-20 second delay while the server spins up, Binder prov
 
 ### GUI reference <a class="anchor" id="gui-reference"></a>
 
-There are several protein representations available, with differnt representation serving different purposes.
+There are several protein representations available, with different representation serving different purposes.
 
-While much of the GUI functionality is geared toward creating custom representations, the model representation can most easily be changed by navigating to ```Extra > Quick``` and selecting a representation.
+While much of the GUI functionality is geared toward creating custom representations, the current representation can most easily be changed by navigating to ```Extra > Quick``` and selecting a representation.
 
 ![available representation](img/representations.png)
 
@@ -54,8 +51,9 @@ Note: Representations can stack and so will need to cycled on/off as desired.
 
 "Cartoon" is typically the default as it's fairly easy to get a sense of the [motifs](https://bio.libretexts.org/Bookshelves/Cell_and_Molecular_Biology/Book%3A_Basic_Cell_and_Molecular_Biology_(Bergtrom)/03%3A_Details_of_Protein_Structure/3.06%3A_Protein_Domains_Motifs_and_Folds_in_Protein_Structure) that make up the protein.
 
+![cartoon representation](img/cartoon.png)
 
-The "contact" view represents distance between amino acids and has become increasingly useful for machine learning computations as these values are independent of model transformations. Here, a hydrogen bond between two amino acid residues is highlighted.
+The "contact" view represents distance between amino acids and has become increasingly useful for machine learning computations as these values are independent of model transformations. Here, a hydrogen bond between an Asparagine residue and a Lysine residue is highlighted.
 
 ![contact representation](img/contact.png)
 
