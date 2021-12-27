@@ -8,18 +8,13 @@
  <li><a href="#usage">Usage</a></li>
   <ol>
    <li><a href="#start-the-notebook">Start the notebook</a></li>
-   <li><a href="#guided-example">Guided example</a></li>
-   <li><a href="#upload-a-photo">Upload a photo</a></li>
-   <li><a href="#adjusting-model-sensitivity">Adjusting model sensitivity</a></li>
+   <li><a href="#gui-reference">GUI reference</a></li>
+   <li><a href="#"></a></li>
+   <li><a href="#"></a></li>
   </ol>
  <li><a href="#further-reading">Further reading</a></li>
  <li><a href="#author">Author</a></li>
  </ol>
-## Table of Contents
-* [Introduction](#introduction)
-* [Technologies](#technologies)
-* [Usage](#usage)
-* [Author](#author)
  
 ## Introduction <a class="anchor" id="introduction"></a>
 
@@ -46,19 +41,16 @@ While there is a small 10-20 second delay while the server spins up, Binder prov
     - A static version of the notebook will be displayed while the server spins up. 
   
  ![static_notebook.png](img/static_notebook.png)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zachmichael14/protein_viewer/HEAD?labpath=viewer.ipynb)
 
-### GUI reference <a class="anchor" id="gui-usage"></a>
+### GUI reference <a class="anchor" id="gui-reference"></a>
 
 There are several protein representations available, with differnt representation serving different purposes.
-
-# GUI Usage <a class="anchor" id="gui-usage"></a>
 
 While much of the GUI functionality is geared toward creating custom representations, the model representation can most easily be changed by navigating to ```Extra > Quick``` and selecting a representation. 
 
 Note: Representations can stack.
 
-"Cartoon" is typically the default as it's easiest to get a sense of the motifs that make up the protein.
+"Cartoon" is typically the default as it's easiest to get a sense of the [motifs](https://bio.libretexts.org/Bookshelves/Cell_and_Molecular_Biology/Book%3A_Basic_Cell_and_Molecular_Biology_(Bergtrom)/03%3A_Details_of_Protein_Structure/3.06%3A_Protein_Domains_Motifs_and_Folds_in_Protein_Structure) that make up the protein.
 
 The "contact" view represents distance between amino acids and has become increasingly useful for machine learning computations as these values are independent of model transformations. 
 
