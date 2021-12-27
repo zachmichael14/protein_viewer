@@ -46,11 +46,11 @@ While there is a small 10-20 second delay while the server spins up, Binder prov
 #### General features
 <ul>
  <li><strong>Moving the protein</strong>: click and drag to move the protein around, scroll to zoom.
- ![cartoon representation](img/cartoon.png)
+ ![moving the protein](img/moving.png)
 
- <li><srong>Surface</strong>: displays the molecular surface. This view is often useful for finding binding pockets within a protein.
+ <li><srong></strong>: displays the molecular surface. This view is often useful for finding binding pockets within a protein.
   
-  ![surface representation](img/surface.png)
+  ![changing background color](img/background.png)
 
  <li><strong>Spacefill</strong>: displays atoms/amino acids as spheres. This representation is commonly used in chemistry to display molecules.
 
@@ -79,6 +79,8 @@ Note: Representations can stack and so will need to cycled on/off as desired.
 ![spacefill representation](img/spacefill.png)
  
 </ul>
+
+More representation details can be found <a href="https://nglviewer.org/ngl/api/manual/molecular-representations.html">here</a>.
 ## Author <a class="anchor" id="author"></a>
 
 ### Zachary Seitz
