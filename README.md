@@ -72,7 +72,7 @@ While there is a small 10-20 second delay while the server spins up, Binder prov
 
  ![cartoon representation](img/cartoon.gif)
 
- <li><srong>Surface</strong>: displays the molecular surface. This view is often useful for finding binding pockets within a protein. Here, it's clear that the surface representation is layered on top of the cartoon view.
+ <li><strong>Surface</strong>: displays the molecular surface. This view is often useful for finding binding pockets within a protein. Here, it's clear that the surface representation is layered on top of the cartoon view.
   
   ![surface representation](img/surface.gif)
 
