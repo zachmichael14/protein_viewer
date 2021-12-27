@@ -43,6 +43,20 @@ While there is a small 10-20 second delay while the server spins up, Binder prov
  ![static_notebook.png](img/static_notebook.png)
 
 ### GUI reference <a class="anchor" id="gui-reference"></a>
+#### General features
+<ul>
+ <li><strong>Moving the protein</strong>: click and drag to move the protein around, scroll to zoom.
+ ![cartoon representation](img/cartoon.png)
+
+ <li><srong>Surface</strong>: displays the molecular surface. This view is often useful for finding binding pockets within a protein.
+  
+  ![surface representation](img/surface.png)
+
+ <li><strong>Spacefill</strong>: displays atoms/amino acids as spheres. This representation is commonly used in chemistry to display molecules.
+
+![spacefill representation](img/spacefill.png)
+ 
+</ul>
 The GUI allows the representation of the protein to be customized, but there are several presets available. The current representation can most easily be changed by navigating to ```Extra > Quick``` and selecting from the list.
 
 ![available representation](img/representations.png)
