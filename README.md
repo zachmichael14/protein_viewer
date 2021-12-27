@@ -40,27 +40,28 @@ While there is a small 10-20 second delay while the server spins up, Binder prov
  ![static_notebook.png](img/static_notebook.png)
 
 ### GUI reference <a class="anchor" id="gui-reference"></a>
-
-There are several protein representations available, with different representation serving different purposes.
-
-While much of the GUI functionality is geared toward creating custom representations, the current representation can most easily be changed by navigating to ```Extra > Quick``` and selecting a representation.
+The GUI allows the representation of the protein to be customized, but there are several presets available. The current representation can most easily be changed by navigating to ```Extra > Quick``` and selecting from the list.
 
 ![available representation](img/representations.png)
 
 Note: Representations can stack and so will need to cycled on/off as desired.
 
-"Cartoon" is typically the default as it's fairly easy to get a sense of the [motifs](https://bio.libretexts.org/Bookshelves/Cell_and_Molecular_Biology/Book%3A_Basic_Cell_and_Molecular_Biology_(Bergtrom)/03%3A_Details_of_Protein_Structure/3.06%3A_Protein_Domains_Motifs_and_Folds_in_Protein_Structure) that make up the protein.
+#### Representations
 
-![cartoon representation](img/cartoon.png)
+<ul>
+ <li><strong>Cartoon</strong>: typically the default as it's fairly easy to get a sense of the <a href=(https://tinyurl.com/yx92469n)>motifs</a> that make up the protein</li>
 
-The "contact" view represents distance between amino acids and has become increasingly useful for machine learning computations as these values are independent of model transformations. Here, a hydrogen bond between an Asparagine residue and a Lysine residue is highlighted.
+ ![cartoon representation](img/cartoon.png)
 
-![contact representation](img/contact.png)
+ <li><srong>Surface</strong>: displays the molecular surface. This view is often useful for finding binding pockets within a protein.
+  
+  ![surface representation](img/surface.png)
 
-"Spacefill" and "ball-and-stick" are both common representations of molecules in chemistry, though the latter is largely ignored by this GUI as most proteins would be too large to fit on screen if modeled accurately this way.
+ <li><strong>Spacefill</strong>: displays atoms/amino acids as spheres. This representation is commonly used in chemistry to display molecules.
 
 ![spacefill representation](img/spacefill.png)
-
+ 
+</ul>
 ## Author
 
 ### Zachary Seitz
