@@ -5,7 +5,7 @@
 <ol>
  <li><a href="#introduction">Introduction</a></li>
  <li><a href="#technologies">Technologies</a></li>
- <li><a href="#usage">Usage</a></li>
+ <li><a href="#using-the-notebook">Using the Notebook</a></li>
   <ol>
    <li><a href="#start-the-notebook">Start the notebook</a></li>
    <li><a href="#gui-reference">GUI reference</a></li>
@@ -33,12 +33,17 @@ While there is a small 10-20 second delay while the server spins up, Binder prov
 * Biopython
 * Nglview
 
-## Usage
- The notebook is composed of cells, which are units of code. Notebook cells are meant to be executed sequentially on the first run through.
+## Using the Notebook <a class="anchor" id="using-the-notebook"></a>
+
+ Notebooks are composed of cells, which are units of code. When a cell is executed, the code will run and the cell will display some kind of output.
  
- To execute a cell, click on it and press ```Shift + Enter```. 
+ For convenience, this notebook only contains one code cell. When the cell is run, it will display a dropdown box, allowing a protein to be selected. 
  
- Alternatively, click on a cell and click ```Run > Run Selected Cells``` or the play button in the notebook toolbar.
+ After selection, a 3-D model of the protein and a menu will be displayed. See [GUI reference](#gui-reference) for more infomation.
+ 
+ To execute the cell, click on it and press ```Shift + Enter``` or the play button in notebook toolbar.
+ 
+ Alternatively, click on the cell and select ```Run > Run Selected Cells``` from the notebook toolbar.
 
 ![running cells](img/run_cells.gif)
 
@@ -51,8 +56,7 @@ While there is a small 10-20 second delay while the server spins up, Binder prov
   
  ![static_notebook.png](img/static_notebook.png)
  
-2. Run the code cell and select a protein to view from the dropdown box. The selected protein will be displayed in the cell output along with a GUI for controlling the view.
-
+2. Run the code cell and select a protein to view from the dropdown box.
 
 ### GUI reference <a class="anchor" id="gui-reference"></a>
 
