@@ -5,7 +5,7 @@
 <ol>
  <li><a href="#introduction">Introduction</a></li>
  <li><a href="#technologies">Technologies</a></li>
- <li><a href="#using-the-notebook">Using the Notebook</a></li>
+ <li><a href="#using-the-notebook">Using the notebook</a></li>
   <ol>
    <li><a href="#start-the-notebook">Start the notebook</a></li>
    <li><a href="#gui-reference">GUI reference</a></li>
@@ -33,7 +33,7 @@ This notebook is served using Binder. While there is a delay while the server sp
 * Biopython
 * Nglview
 
-## Using the Notebook <a class="anchor" id="using-the-notebook"></a>
+## Using the notebook <a class="anchor" id="using-the-notebook"></a>
 
 Notebooks are composed of cells, which are units of code. When a cell is executed, the code within the cell will run and the cell will display some kind of output.
  
