@@ -53,12 +53,14 @@ Alternatively, click on the cell and select ```Run > Run Selected Cells``` from 
 ### Start the notebook <a class="anchor" id="start-the-notebook"></a>
 
 1. Click the Binder badge below to start the notebook.
-    - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zachmichael14/protein_viewer/HEAD?labpath=viewer.ipynb)
+    - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zachmichael14/protein_viewer/HEAD?labpath=protein_viewer.ipynb)
     - A static version of the notebook will be displayed while the server spins up (may take up to a minute)
   
  ![static_notebook.png](img/static_notebook.png)
  
 2. Run the code cell and select a protein to view from the dropdown box.
+
+![viewing a protein](img/view_protein.gif)
 
 ### GUI reference <a class="anchor" id="gui-reference"></a>
 
