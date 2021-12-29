@@ -1,4 +1,4 @@
-# 3-D Protein Visualizer with Biopython
+# 3-D Protein Viewer with Biopython
 
 ## Table of Contents
 
