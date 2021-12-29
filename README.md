@@ -34,12 +34,20 @@ While there is a small 10-20 second delay while the server spins up, Binder prov
 * Nglview
 
 ## Usage
+ The notebook is composed of cells, which are units of code. Notebook cells are meant to be executed sequentially on the first run through.
+ 
+ To execute a cell, click on it and press ```Shift + Enter```. 
+ 
+ Alternatively, click on a cell and click ```Run > Run Selected Cells``` or the play button in the notebook toolbar.
+
+![running cells](img/run_cells.gif)
+
 
 ### Start the notebook <a class="anchor" id="start-the-notebook"></a>
 
 1. Click the badge below to start the notebook.
     - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zachmichael14/protein_viewer/HEAD?labpath=viewer.ipynb)
-    - A static version of the notebook will be displayed while the server spins up. 
+    - A static version of the notebook will be displayed while the server spins up (may take up to a minute)
   
  ![static_notebook.png](img/static_notebook.png)
  
