@@ -51,7 +51,7 @@ Alternatively, click on the cell and select ```Run > Run Selected Cells``` from 
 ### Start the notebook <a class="anchor" id="start-the-notebook"></a>
 
 1. Click the Binder badge below to start the notebook.
-    - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zachmichael14/protein_visualizer/HEAD?labpath=viewer.ipynb)
+    - 
     - A static version of the notebook will be displayed while the server spins up (may take up to a minute)
   
  ![static_notebook.png](img/static_notebook.png)
