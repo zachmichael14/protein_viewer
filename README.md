@@ -25,6 +25,8 @@ I choose Jupyter Notebooks in part because they provide reasonable widget toolin
 
 This notebook is served using Binder. While there is a delay while the server spins up, Binder is a convenient way to provide much of the interactivity of a traditional notebook environment.
 
+The static notebook is viewable [here](https://github.com/zachmichael14/protein_viewer/blob/main/viewer.ipynb), but has no interactivity. Please note that the table of contents does not work with the static notebook.
+
 ## Technologies <a class="anchor" id="technologies"></a>
 * Python
 * Binder
