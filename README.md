@@ -35,7 +35,7 @@ While there is a small 10-20 second delay while the server spins up, Binder prov
 
 ## Using the Notebook <a class="anchor" id="using-the-notebook"></a>
 
- Notebooks are composed of cells, which are units of code. When a cell is executed, the code will run and the cell will display some kind of output.
+ Notebooks are composed of cells, which are units of code. When a cell is executed, the code within the cell will run and the cell will display some kind of output.
  
  For convenience, this notebook only contains one code cell. When the cell is run, it will display a dropdown box, allowing a protein to be selected. 
  
