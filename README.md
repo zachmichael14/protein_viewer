@@ -67,7 +67,7 @@ Alternatively, click on the cell and select ```Run > Run Selected Cells``` from 
 #### General features <a class="anchor" id="general-features"></a>
 
 <ul>
- <li><strong>Moving the protein</strong>: click and drag to move the protein around, scroll to zoom. To reset the view, click the General tab and the click the Center button.
+ <li><strong>Moving the protein</strong>: click and drag to move the protein around, scroll to zoom. To reset the view, click the ```General``` tab and then click the Center button.
   
  ![moving the protein](img/moving.gif)
 
