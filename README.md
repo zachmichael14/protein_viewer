@@ -19,7 +19,7 @@
  
 ## Introduction <a class="anchor" id="introduction"></a>
 
-This project was primarily inspired by my background in molecular biology. I was excited to explore the Biopython library and some of its uses, so I decided to create a Jupyter Notebook app.
+This project was primarily inspired by my background in biology. I was excited to explore the Biopython library and some of its uses, so I decided to create a Jupyter Notebook app.
 
 I choose Jupyter Notebooks in part because they provide reasonable widget tooling, but it's also possible to present text with the code, which is great for explaining a bit more about some of the biology behind the code.
 
