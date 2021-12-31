@@ -41,7 +41,7 @@ Notebooks are composed of cells, which are units of code. When a cell is execute
  
 For convenience, this notebook only contains one code cell. When the cell is run, it will display a dropdown box, allowing a protein to be selected. 
  
-After selection, a 3-D model of the protein and a menu will be displayed. See [GUI reference](#gui-reference) for more infomation.
+After selection, a 3-D model of the protein and a menu will be displayed. See [GUI reference](#gui-reference) for more infomation about using the menu.
  
 To execute the cell, click on it and press ```Shift + Enter``` or the play button in notebook toolbar.
  
