@@ -21,7 +21,7 @@
 
 This project was primarily inspired by my background in biology. I was excited to explore the Biopython library and some of its uses, so I decided to create a Jupyter Notebook app.
 
-I choose Jupyter Notebooks in part because they provide reasonable widget tooling, but it's also possible to present text with the code, which is great for explaining a bit more about some of the biology behind the code.
+I choose Jupyter Notebooks in part because they provide reasonable widget tooling, but also because it's possible to present text next to the code, which is great for explaining a bit more about some of the biology behind the code.
 
 This notebook is served using Binder. While there is a delay while the server spins up, Binder is a convenient way to provide much of the interactivity of a traditional notebook environment.
 
