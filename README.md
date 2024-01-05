@@ -39,13 +39,13 @@ The static notebook is viewable [here](https://github.com/zachmichael14/protein_
 
 Notebooks are composed of cells, which are units of code. When a cell is executed, the code within the cell will run and the cell will display some kind of output.
  
-For convenience, this notebook only contains one code cell. When the cell is run, it will display a dropdown box, allowing a protein to be selected. 
+This notebook contains two code cells. When the cells are run, a dropdown box and a textbox will appear, allowing a protein to be selected. 
  
 After selection, a 3-D model of the protein and a menu will be displayed. See [GUI reference](#gui-reference) for more infomation about using the menu.
  
-To execute the cell, click on it and press ```Shift + Enter``` or the play button in notebook toolbar.
+Run both cells by selecting ```Cell > Run All``` from the notebook toolbar.
  
-Alternatively, click on the cell and select ```Run > Run Selected Cells``` from the notebook toolbar.
+To execute cells individually, click on a cell and press ```Shift + Enter``` or the ```Run``` button in notebook toolbar.
 
 ![running cells](img/run_cells.gif)
 
