@@ -18,14 +18,9 @@
  </ol>
  
 ## Introduction <a class="anchor" id="introduction"></a>
+This notebook provides a basic GUI for exploring the 3D stucture of proteins. It's served using Binder, which is a convenient way to provide much of the interactivity of a traditional notebook environment. Please allow some time for the Binder server to spin up.
 
-This project was primarily inspired by my background in biology. I was excited to explore the Biopython library and some of its uses, so I decided to create a Jupyter Notebook app.
-
-I choose Jupyter Notebooks in part because they provide reasonable widget tooling, but also because it's possible to present text next to the code, which is great for explaining a bit more about some of the biology behind the code.
-
-This notebook is served using Binder. While there is a delay while the server spins up, Binder is a convenient way to provide much of the interactivity of a traditional notebook environment.
-
-The static notebook is viewable [here](https://github.com/zachmichael14/protein_viewer/blob/main/protein_viewer.ipynb), but has no interactivity. For that reason, the table of contents does not work with the static notebook.
+In the meantime, the static notebook is viewable [here](https://github.com/zachmichael14/protein_viewer/blob/main/protein_viewer.ipynb), but has no interactivity. For that reason, the table of contents does not work with the static notebook.
 
 ## Technologies <a class="anchor" id="technologies"></a>
 * Python
